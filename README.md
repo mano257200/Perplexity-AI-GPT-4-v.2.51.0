@@ -106,7 +106,7 @@ This vulnerability allows data leakage across accounts and users with no validat
 - The link is accessed by someone else (via referrer leak, history, logs, etc.).
 - The full conversation is visible — **no authentication required**.
 
-![PoC Screenshot](https://github.com/mano257200/perplexity/blob/main/POC-Perplexity.png?raw=true)
+![PoC Screenshot](https://github.com/mano257200/Perplexity-AI-GPT-4-v.2.51.0/blob/main/POC-Perplexity.png?raw=true)
 
 
    
